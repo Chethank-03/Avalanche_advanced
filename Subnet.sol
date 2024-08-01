@@ -1,5 +1,3 @@
-Sure! Here is the updated contract with the `require` statement messages replaced from "Insufficient balance" to "balnot_enough":
-
 ```solidity
 // SPDX-License-Identifier: MIT OR MIT
 pragma solidity ^0.8.18;
