@@ -149,6 +149,3 @@ contract Vault {
         token.transfer(msg.sender, amount);
     }
 }
-```
-
-In this updated contract, the error message "Insufficient balance" has been replaced with "balnot_enough".
